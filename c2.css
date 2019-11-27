@@ -1,0 +1,54 @@
+.dropdown-toggle::after {
+    display: none;
+}
+
+body {
+    padding-top: 100px;
+    padding-bottom: 0;
+    margin: 0;
+    box-sizing: border-box;
+}  
+
+.c2orange {
+    color: #f34337 !important;
+    font-size: 25px;
+}
+
+.orange {
+    color: #f34337 !important;
+}
+
+.orangebg {
+    background-color: #f34337 !important;
+}
+
+.c2blue {
+    color: #0a96c3 !important;
+}
+
+.c2footer {
+    background-color: #0a96c3 !important;
+}
+
+.image {
+    background-position: center;
+    background-size: cover;
+    width: 345 !important;
+    height: 155 !important;
+}
+
+span.revenue {
+    color: #8aad3b;
+}
+
+span.savings {
+    color: #8f87c1;
+}
+
+span.profit {
+    color: #edb84c;
+}
+
+span.retention {
+    color: #d2328d;
+}
